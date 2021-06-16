@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{rohitd4007}/count.svg)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=rohitd4007)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rohitd4007&count_private=true&theme=tokyonight&showicons=true)]()
