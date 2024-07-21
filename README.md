@@ -1,15 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Rohit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
-<a href="https://twitter.com/Meroh34410905">
-  <img align="left" alt="Rohit's  Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rohitdevhare07/">
-  <img align="left" alt="Rohit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rohitdevhare07/)
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
 
