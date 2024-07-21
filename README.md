@@ -9,6 +9,10 @@
   <img align="left" alt="Rohit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=rohitd4007.rohitd4007)
 
 
