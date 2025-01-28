@@ -21,12 +21,12 @@
 ---
 
 ## 💼 Projects
-### 🌟 [Project 1: Tees-Commerce](https://github.com/yourusername/tees-commerce)
+### 🌟 [Project 1: TeeFlect](https://tee-flect.netlify.app/login)
 An e-commerce platform for custom T-shirts built with Next.js, Redux, and TailwindCSS.  
 - **Features:** User authentication, dynamic product pages, payment integration (PayU).  
 - **Tech Stack:** Next.js, Redux Thunk, Cloudinary, MongoDB.
 
-### 🌟 [Project 2: Quiz Master](https://github.com/yourusername/quiz-master)
+### 🌟 [Project 2: Quiz Master](https://test-you-cs.netlify.app/)
 A microservice-based quiz application with real-time results and leaderboard.  
 - **Features:** Coding quizzes, real-time updates, and RESTful APIs.  
 - **Tech Stack:** Node.js, Express, MongoDB, React.js.
