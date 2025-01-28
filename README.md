@@ -14,8 +14,9 @@
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitd4007&show_icons=true&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitd4007&show_icons=true&theme=dark&cache_seconds=1800)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitd4007&layout=compact&theme=dark)
+
 
 ---
 
