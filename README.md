@@ -1,27 +1,48 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 👋 Hi there! I'm Rohit  
+🚀 Full Stack Developer | 🌐 MERN Stack Enthusiast | ☁️ AWS  
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rohitdevhare07/)
-&nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/rohitd4007/rohitd4007)
+---
 
-![](https://visitor-badge.glitch.me/badge?page_id=rohitd4007.rohitd4007)
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Next.js, HTML, CSS, TailwindCSS
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **Cloud:** AWS, Vercel, Netlify
+- **Other Tools:** Redux, TypeScript, Webpack, Jest
 
+---
 
-📈 My GitHub Stats
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rohitd4007&count_private=true&theme=dark&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitd4007&langs_count=5&theme=dark)]()
+---
 
+## 💼 Projects
+### 🌟 [Project 1: Tees-Commerce](https://github.com/yourusername/tees-commerce)
+An e-commerce platform for custom T-shirts built with Next.js, Redux, and TailwindCSS.  
+- **Features:** User authentication, dynamic product pages, payment integration (PayU).  
+- **Tech Stack:** Next.js, Redux Thunk, Cloudinary, MongoDB.
 
+### 🌟 [Project 2: Quiz Master](https://github.com/yourusername/quiz-master)
+A microservice-based quiz application with real-time results and leaderboard.  
+- **Features:** Coding quizzes, real-time updates, and RESTful APIs.  
+- **Tech Stack:** Node.js, Express, MongoDB, React.js.
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## 🏆 Achievements
+- 🥇 5+ years of professional experience in web development.
 
+---
+
+## 🌍 Let's Connect!
+- [Portfolio Website](https://rohit-devhare-portfolio.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/rohitdevhare07)
+- [Twitter](https://twitter.com/yourtwitter)
+- [Email](mailto:rohitdevhare400@gmail.com)
+
+---
+
+> 💡 *"Strive not to be a success, but rather to be of value."* – Albert Einstein
