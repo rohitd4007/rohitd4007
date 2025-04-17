@@ -39,10 +39,8 @@ A microservice-based quiz application with real-time results and leaderboard.
 ---
 
 ## 🌍 Let's Connect!
-- [Portfolio Website](https://rohit-devhare-portfolio.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/rohitdevhare07)
-- [Twitter](https://twitter.com/yourtwitter)
-- [Email](mailto:rohitdevhare400@gmail.com)
+- [Instagram](https://www.instagram.com/everything_js_dev/)
+
 
 ---
 
